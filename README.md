@@ -1,10 +1,12 @@
 ## 👋 Hi, I'm S.M. Sajad Hussaini!
 
 🏗️ **Civil Engineer | Structural & Earthquake Engineering Researcher**  
-🎓 Civil Engineering (BSc), Structural Engineering (MSc), PhD in Sustainable Built Environment  
+🎓 Bachelor's in Civil Engineering | Master's in Structural Engineering | PhD in Sustainable Built Environment  
 
-🔹 Specializing in stochastic ground motion simulation and its applications in engineering.  
-🔹 Experienced in structural analysis and design using Python, CSI ETABS, and SAFE.
+Experienced in:  
+🔹 stochastic ground motion simulation and its applications in engineering practice  
+🔹 engineering design and retrofit of buildings  
+🔹 data analysis and machine learning  
 
 ---
 
@@ -22,3 +24,11 @@
 ### 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajadhussaini)
+
+---
+
+### 💸 Support
+
+[PayPal](https://www.paypal.com/paypalme/sajadhussaini)
+
+---
