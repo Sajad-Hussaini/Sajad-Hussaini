@@ -18,6 +18,7 @@ Experienced in:
 ### 📌 Featured Project
 
 - [**SGSIM: Stochastic Ground Motion Simulation Model**](https://github.com/sajad-hussaini/SGSIM) - A Python-based stochastic ground motion simulation model for earthquake engineering applications.
+- [**ANN-based Ground Motion Model for Tabriz Region**](https://github.com/sajad-hussaini/Tabriz-GMM-ANN) - A Web-based interface for an ANN model for estimation of spectral acceleration for Tabriz Region using stochastically simulated ground motions, available at (https://tabriz-gmm-ann.streamlit.app/).
 
 ---
 
