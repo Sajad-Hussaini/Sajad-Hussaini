@@ -14,7 +14,9 @@
 
 ### 🛠️ Tools & Technologies
 
-![Tech](https://skillicons.dev/icons?i=python,etabs,safe,git,github&theme=dark)
+![Tech](https://skillicons.dev/icons?i=python,git,github&theme=dark) 
+![ETABS](./Sajad-Hussaini/logo-csiamerica.svg) 
+![OpenSees](./Sajad-Hussaini/logo-opensees.jpg)
 
 ---
 
