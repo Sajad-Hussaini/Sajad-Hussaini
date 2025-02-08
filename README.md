@@ -1,22 +1,15 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=282c34&height=100&section=header&text=Welcome%20to%20My%20GitHub&fontColor=white&fontSize=30&fontAlign=50)
-
 ## 👋 Hi, I'm S.M. Sajad Hussaini!
 
 🏗️ **Civil Engineer | Structural & Earthquake Engineering Researcher**  
-🎓 Bachelor's in Civil Engineering | Master's in Structural Engineering | PhD in Sustainable Built Environment  
+🎓 Civil Engineering (BSc), Structural Engineering (MSc), PhD in Sustainable Built Environment  
 
-🔹 Specializing in stochastic ground motion simulation and its applications in engineering practice.  
-🔹 Experienced in engineering design and retrofit of buildings.  
-🔹 Experienced in Python for engineering simulations and data analysis.  
-🔹 Skilled in using CSI ETABS and SAFE for structural analysis and design.  
+🔹 Specializing in stochastic ground motion simulation and its applications in engineering.  
+🔹 Experienced in structural analysis and design using Python, CSI ETABS, and SAFE.
 
 ---
 
-### 🛠️ Tools & Technologies
-
-![Tech](https://skillicons.dev/icons?i=python,git,github&theme=dark) 
-![ETABS](./Sajad-Hussaini/logo-csiamerica.svg) 
-![OpenSees](./Sajad-Hussaini/logo-opensees.jpg)
+### 🛠️ Technical Skills
+<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" alt="Tech" style="display: inline-block; height: 30px; margin-right: 10px;"><img src="./logo-csiamerica.svg" alt="ETABS" style="display: inline-block; height: 30px; margin-right: 10px;"><img src="./logo-opensees.jpg" alt="OpenSees" style="display: inline-block; height: 30px;">
 
 ---
 
@@ -26,18 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smsajad&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajadhussaini)
-
----
-
-![Footer](https://capsule-render.vercel.app/api?section=footer&type=rect&color=282c34&height=50)
