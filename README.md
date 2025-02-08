@@ -1,12 +1,12 @@
-## 👋 Hi, I'm S.M. Sajad Hussaini!
+## 🤝 Greetings, I'm S.M. Sajad Hussaini!
 
 🏗️ **Civil Engineer | Structural & Earthquake Engineering Researcher**  
 🎓 Bachelor's in Civil Engineering | Master's in Structural Engineering | PhD in Sustainable Built Environment  
 
 Experienced in:  
-🔹 stochastic ground motion simulation and its applications in engineering practice  
-🔹 engineering design and retrofit of buildings  
-🔹 data analysis and machine learning  
+🔹 Stochastic ground motion simulation and its applications in engineering practice  
+🔹 Engineering design of structures and retrofit of buildings  
+🔹 Data analysis and machine learning  
 
 ---
 
@@ -27,8 +27,9 @@ Experienced in:
 
 ---
 
-### 💸 Support
+### 💰 Support
 
-[PayPal](https://www.paypal.com/paypalme/sajadhussaini)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/sajadhussaini)
+
 
 ---
