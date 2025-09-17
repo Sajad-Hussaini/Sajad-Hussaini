@@ -6,7 +6,7 @@
 Experienced in:  
 🔹 Stochastic ground motion simulation and its applications in engineering practice  
 🔹 Engineering design of structures and retrofit of buildings  
-🔹 Data analysis and machine learning  
+🔹 Data science and machine learning  
 
 ---
 
