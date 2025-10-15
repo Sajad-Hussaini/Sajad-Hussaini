@@ -1,24 +1,25 @@
-## 🤝 Greetings, I'm S.M. Sajad Hussaini!
+# S.M. Sajad Hussaini
 
-🏗️ **Civil Engineer | Structural & Earthquake Engineering Researcher**  
-🎓 Bachelor's in Civil Engineering | Master's in Structural Engineering | PhD in Sustainable Built Environment  
+**Structural & Earthquake Engineering Researcher**  
+PhD in Sustainable Built Environment | MSc in Structural Engineering | BSc in Civil Engineering  
 
-Experienced in:  
-🔹 Stochastic ground motion simulation and its applications in engineering practice  
-🔹 Engineering design of structures and retrofit of buildings  
-🔹 Data science and machine learning  
-
----
-
-### 🛠️ Technical Skills
-<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" alt="Tech" style="display: inline-block; height: 30px; margin-right: 10px;"><img src="./logo-csiamerica.svg" alt="ETABS" style="display: inline-block; height: 30px; margin-right: 10px;"><img src="./logo-opensees.jpg" alt="OpenSees" style="display: inline-block; height: 30px;">
+## Expertise
+🔹 Stochastic ground motion simulation  
+🔹 Analysis and design of structures  
+🔹 Data science, machine learning, and mixed-effects modeling  
 
 ---
 
 ### 📌 Featured Project
 
-- [**SGSIM: Stochastic Ground-motion SIMulation model**](https://github.com/sajad-hussaini/SGSIM) - A Python-based stochastic ground motion simulation model for earthquake engineering applications.
-- [**ANN-based Ground Motion Model for Tabriz Region**](https://github.com/sajad-hussaini/Tabriz-GMM-ANN) - A Web-based interface for an ANN model for estimation of spectral acceleration for Tabriz Region using stochastically simulated ground motions, accessible at [**Tabriz-GMM-steamlit**](https://tabriz-gmm-ann.streamlit.app/).
+- [**SGSIM: Python Package for Simulation and Analysis of Ground Motions**](https://github.com/sajad-hussaini/SGSIM)  
+
+- [**ANN-based Ground Motion Model for Tabriz Region**](https://github.com/sajad-hussaini/Tabriz-GMM-ANN) - A Web-based interface for an ANN model for estimation of spectral acceleration for Tabriz Region using stochastically simulated ground motions, [Web Application →](https://tabriz-gmm-ann.streamlit.app/)
+
+---
+
+### 🛠️ Technical Skills
+<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" alt="Tech" style="display: inline-block; height: 30px; margin-right: 10px;"><img src="./logo-csiamerica.svg" alt="ETABS" style="display: inline-block; height: 30px; margin-right: 10px;"><img src="./logo-opensees.jpg" alt="OpenSees" style="display: inline-block; height: 30px;">
 
 ---
 
@@ -29,7 +30,7 @@ Experienced in:
 ---
 
 ### 💰 Support
-
+If you wish to support my work or sponsor future projects, any contributions are greatly appreciated.  
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/sajadhussaini)
 
 
