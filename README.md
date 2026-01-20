@@ -12,9 +12,9 @@ PhD in Sustainable Built Environment | MSc in Structural Engineering | BSc in Ci
 
 ### 📌 Featured Project
 
-- [**SGSIM: Python Package for Simulation and Analysis of Ground Motions**](https://github.com/sajad-hussaini/SGSIM)
+- [**SGSIM: Python Package for Simulation and Analysis of Ground Motions**](https://github.com/sajad-hussaini/sgsim)
 
-- - [**MMER: Python Package for Multivariate Mixed Effects Regression**](https://github.com/sajad-hussaini/mmer)  
+- [**MMER: Python Package for Multivariate Mixed Effects Regression**](https://github.com/sajad-hussaini/mmer)  
 
 - [**ANN-based Ground Motion Model for Tabriz Region**](https://github.com/sajad-hussaini/Tabriz-GMM-ANN) - A Web-based interface for an ANN model for estimation of spectral acceleration for Tabriz Region using stochastically simulated ground motions, [Web Application →](https://tabriz-gmm-ann.streamlit.app/)
 
