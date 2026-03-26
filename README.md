@@ -1,4 +1,4 @@
-# S.M. Sajad Hussaini
+# S. M. Sajad Hussaini
 
 **Structural & Earthquake Engineering Researcher**  
 PhD in Sustainable Built Environment | MSc in Structural Engineering | BSc in Civil Engineering  
