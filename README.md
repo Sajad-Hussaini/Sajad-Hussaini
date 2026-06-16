@@ -4,9 +4,10 @@
 PhD in Sustainable Built Environment | MSc in Structural Engineering | BSc in Civil Engineering  
 
 ## Expertise
-🔹 Stochastic ground motion simulation  
-🔹 Analysis and design of structures  
-🔹 Data science, machine learning, and mixed-effects modeling  
+🔹 Earthquake & Structural Engineering | Structural analysis & design, performance-based earthquake engineering, and seismic retrofit      
+🔹 Seismic Hazard & Risk | Probabilistic seismic hazard analysis, stochastic ground motion simulation, and vulnerability assessment  
+🔹 Data Science & Modeling | Machine learning (ANNs), multivariate mixed-effects modeling, and probabilistic & statistical modeling  
+🔹 Scientific Computing | Python package development, Git, and open-source software creation (SGSIM, MMER)
 
 ---
 
