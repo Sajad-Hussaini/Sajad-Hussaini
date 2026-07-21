@@ -15,7 +15,9 @@ PhD in Civil Engineering (Sustainable Built Environment) | MSc in Structural Eng
 
 - [**SGSIM: Simulation and Analysis of Ground Motions**](https://github.com/sajad-hussaini/sgsim)
 
-- [**MMER: Multivariate Mixed Effects Regression**](https://github.com/sajad-hussaini/mmer)  
+- [**MMER: Multivariate Mixed Effects Regression**](https://github.com/sajad-hussaini/mmer)
+
+- [**PINAGMM: Physics-Informed Neural Additive Ground Motion Model**](https://github.com/sajad-hussaini/PINAGMM)  
 
 ---
 
